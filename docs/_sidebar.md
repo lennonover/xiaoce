@@ -1,0 +1,11 @@
+- [导航]()
+- 一. 剖析 Vue.js 内部运行机制
+    * [初始化及挂载](vueper/1)
+    * [template 模板是怎样通过 Compile 编译的](vueper/2)
+    * [响应式系统的基本原理](vueper/4)
+    * [响应式系统的依赖收集追踪原理](vueper/3)
+    * [实现 Virtual DOM 下的一个 VNode 节点](vueper/7)
+    * [数据状态更新时的差异 diff 及 patch 机制](vueper/6)
+    * [批量异步更新策略及 nextTick 原理](vueper/5)
+    * [Vuex 状态管理的工作原理](vueper/8)
+    * [总结 & 常见问题解答](vueper/9)
